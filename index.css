@@ -11,10 +11,11 @@ body {
 .suggestions,
 .Your-Friends {
   display: inline-block;
-  width: 100px;
+  width: 150px;
   height: 25px;
   color: rgb(14, 12, 12);
   padding: 2px;
+  font-size: 1.1rem;
   border-radius: 15px;
   background-color: rgb(192, 187, 187);
   text-align: center;
